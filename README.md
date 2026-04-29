@@ -15,3 +15,10 @@ In my current role, I work across multiple systems and data flows. I'm building 
 - Experiment with simple API requests using Python
 - Build small test scripts
 - Explore real-world use cases of APIs in operational environments
+
+## Example scripts
+
+- `api_example.py` – basic GET request and JSON response
+- `api_users_example.py` – fetching and parsing structured data from an API
+
+Simple experiments to understand how systems communicate via APIs.
